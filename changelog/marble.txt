@@ -2,14 +2,39 @@ Device: Poco F5/ Redmi Note 12 Turbo
 Device code name : marble
 Device maintainer: PabloEscobar
 
+Date - 17/02/2025
+=================
+-marble: Source upstream
+-improved Speaker sound 
+-Added HBM and auto-HBM tile upto 1000 nits Brightness (haxx)
+-Fixed Ussd codes running
+-Build DSPVolumeSynchronizer
+-Add 786 Adreno driver Blobs
+-Kernel Upstream
+-Misc improvements
+
+Date - 05/01/2025
+=================
+-marble: Source upstream
+-Fix deep sleep issue
+-Added support for Charging limit
+-Added Custon Display saturation adjustment
+
+Date - 22/12/2024
+=================
+- marble: Fixed Netflix loading screen
+- Added Dolby vision support and fixed dolby atmos media codecs
+- import audio effects from oneplus  9R
+
 Date - 02/12/2024
+=================
 - marble: initial android 15
 - Update blobs hyperos v816.0.10.0.UMRMIXM
 - Added Dolby atmos and launcher icon
 - Added HyperOS Gallery,VideoPlayer,Calculator
 - Fixed SIGSEGV (segmentation fault) errors caused by mismatched memory layouts
 - Fixed SFPS location
-=================
+
 Date - 24/08/2024
 =================
 - marble: update sensor notifier extension

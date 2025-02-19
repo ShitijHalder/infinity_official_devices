@@ -1,6 +1,23 @@
 Device: Redmi Note 11  
 Device Code Name: spes/spesn  
 Device Maintainer: JassiV
+---------------------------------------------------
+
+Update: 16/02/2024 - Version 2.5
+
+- Includes Latest Source Changes
+
+---------------------------------------------------
+
+Update: 08/02/2024 - Version 2.5
+
+- Initial Offical Build 
+- Fixed FP Position Indicator 
+- Fixed DRM
+- Fixed DT2W On Default Kernel 
+- Update blobs from HyperOS Global stable v1.0.7.0.TGCMIXM_91ee997f22_13.0
+- Update audio/display/media into 'LA.UM.9.15.2.r1-10900-KAMORTA.QSSI14.0
+- Update lmkd properties to improve responsiveness
 
 ---------------------------------------------------
 
